@@ -5,9 +5,9 @@ Overview
 This project is aimed at scraping data from the JustWatch website, a popular platform for streaming content information. The data scraped includes information about movies, TV shows, and streaming platforms available on JustWatch.
 
 # Requirements           
-Python 3.x
-Beautiful Soup 4
-Requests
+Python 3.x            
+Beautiful Soup 4         
+Requests        
 
 # Data Cleaning and Manipulation       
 After scraping the data, certain cleaning and manipulation techniques can be applied to improve its quality and usefulness. These techniques may include:
